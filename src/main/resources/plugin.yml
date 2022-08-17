@@ -1,0 +1,4 @@
+name: Old Ph System
+version: '${project.version}'
+main: de.smartbotstudios.oldphsystem.OldPhSystem
+api-version: 1.16
